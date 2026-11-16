@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "active": "player_001",
+  "next": 2,
+  "reset": null,
+  "admin_receipts": {},
+  "profiles": {
+    "player_001": {
+      "name": "Runner",
+      "run": "27bcd6f062a8477fa4c938801a411004",
+      "archives": []
+    }
+  }
+}
